@@ -27,4 +27,5 @@ Model Logistic Regression dapat bekerja dengan sangat baik pada dataset sederhan
 
 **Dibuat oleh:** Halimah (2231165)  
 **Mata Kuliah:** Artificial Intelligence & Big Data  
-**Dosen Pengampu:** [Isi nama dosen kamu di sini bila diperlukan]
+**Dosen Pengampu:** 
+
